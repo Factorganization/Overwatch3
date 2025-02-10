@@ -71,6 +71,7 @@ crashlytics-build.properties
 !/[Aa]ssets/Editor Default Resources/FMOD/*
 
 # Ignore the Cache folder since it is updated locally.
+/[Aa]ssets/Plugins/FMOD/Cache/
 /[Aa]ssets/Plugins/FMOD/Cache/*
 /[Aa]ssets/Plugins/FMOD/Cache.meta
 
